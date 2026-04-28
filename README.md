@@ -22,6 +22,4 @@ https://www.tinkercad.com/things/chhTvBskCBa-laser-lamp?sharecode=FXg7v6mhg4UEq4
 ## Safety
 This project involves laser/light modules. Do not point lasers at eyes, reflective surfaces, people, animals, or vehicles. Use only safe low-power modules and proper enclosure/diffusion.
 
-## Folder Structure
-Explain folders here.
 
