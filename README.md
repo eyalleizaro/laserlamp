@@ -2,6 +2,9 @@
 
 A custom laser/LED lamp project using an Arduino, shift register, MOSFETs, and 3D-printed parts.
 
+#Tinkercad link:
+https://www.tinkercad.com/things/chhTvBskCBa-laser-lamp?sharecode=FXg7v6mhg4UEq4_zTWdC3pU2sAC-2F1WZS-ole0Dzyg
+
 ## Features
 - Controlled light patterns
 - Modular electronics design
